@@ -15,7 +15,7 @@ export const Header = () => {
         <div className="flex justify-between items-center">
           <div>
             <a href="#" className="text-xl font-medium bg-gradient-to-r from-indigo-600 to-purple-600 inline-block text-transparent bg-clip-text">
-              Jane Designer
+              Iura Osadchuk
             </a>
           </div>
           {/* Desktop Navigation */}

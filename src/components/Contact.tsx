@@ -18,7 +18,7 @@ export const Contact = () => {
             discuss how I can help bring your ideas to life.
           </p>
           <div className="flex flex-col sm:flex-row gap-4">
-            <a href="mailto:hello@janedesigner.com" className="flex items-center px-6 py-3 bg-gradient-to-r from-indigo-600 to-purple-600 text-white rounded-lg hover:from-indigo-700 hover:to-purple-700 transition-all shadow-md hover:shadow-lg">
+            <a href="mailto:hello@iuraosadchuk.com" className="flex items-center px-6 py-3 bg-gradient-to-r from-indigo-600 to-purple-600 text-white rounded-lg hover:from-indigo-700 hover:to-purple-700 transition-all shadow-md hover:shadow-lg">
               <MailIcon size={18} className="mr-2" />
               Email Me
             </a>

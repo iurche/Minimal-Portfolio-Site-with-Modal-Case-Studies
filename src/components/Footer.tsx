@@ -6,7 +6,7 @@ export const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-12 md:gap-8">
           <div>
             <a href="#" className="text-xl font-medium bg-gradient-to-r from-indigo-400 to-purple-400 inline-block text-transparent bg-clip-text mb-4">
-              Jane Designer
+              Iura Osadchuk
             </a>
             <p className="text-gray-400 max-w-xs">
               Strategic product designer creating digital experiences that solve
@@ -29,13 +29,13 @@ export const Footer = () => {
           </div>
           <div>
             <h3 className="text-lg font-medium mb-4">Contact</h3>
-            <p className="text-gray-400 mb-2">hello@janedesigner.com</p>
+            <p className="text-gray-400 mb-2">hello@iuraosadchuk.com</p>
             <p className="text-gray-400">San Francisco, CA</p>
           </div>
         </div>
         <div className="border-t border-gray-800 mt-12 pt-8 flex flex-col md:flex-row justify-between items-center">
           <p className="text-gray-400 mb-4 md:mb-0">
-            © {currentYear} Jane Designer. All rights reserved.
+            © {currentYear} Iura Osadchuk. All rights reserved.
           </p>
           <div className="flex space-x-6">
             <a href="#" className="text-gray-400 hover:text-white transition-colors">

@@ -10,7 +10,7 @@ export const Hero = () => {
         </div>
         <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold mb-8 leading-tight">
           <span className="bg-gradient-to-r from-gray-900 to-gray-700 inline-block text-transparent bg-clip-text">
-            Transforming complex challenges into
+            Making complex challenges into
           </span>
           <span className="block bg-gradient-to-r from-indigo-600 to-purple-600 inline-block text-transparent bg-clip-text">
             elegant experiences
